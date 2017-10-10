@@ -1,0 +1,19 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "a simple tool to help friends learn how to use git and github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulamite/LearnGithub.git"
+  },
+  "author": "abdulamite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulamite/LearnGithub/issues"
+  },
+  "homepage": "https://github.com/abdulamite/LearnGithub#readme"
+}
