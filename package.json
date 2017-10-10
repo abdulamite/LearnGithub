@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abdulamite/LearnGithub/issues"
   },
-  "homepage": "https://github.com/abdulamite/LearnGithub#readme"
+  "homepage": "https://github.com/abdulamite/LearnGithub#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
 }
